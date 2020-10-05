@@ -498,3 +498,4 @@ rails console -e staging
 ls -l
 rails console -e staging
 rails console
+mkdir ~/ga
