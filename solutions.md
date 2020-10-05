@@ -998,3 +998,23 @@ rails console -e staging
 ls -l
 rails console -e staging
 rails console
+git add solutions.md
+git commit -m "add command to change path to home directory"
+git push origin solutions
+mkdir ~/ga
+git commit -a -m 'Added the mkdir command.'
+git push
+mkdir week1
+mkdir week2
+mkdir week3
+mkdir week4
+mkdir week5
+mkdir week6
+mkdir week7
+mkdir week8
+mkdir week9
+mkdir week10
+mkdir week11
+mkdir week12
+git commit -a -m 'Created directories for each week.'
+git push
